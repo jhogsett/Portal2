@@ -4,11 +4,11 @@
 	"Version"		"14"
 	"FileID"		"0x0000000091654194"
 	"Timestamp_Created"		"0x00000000602CA802"
-	"Timestamp_Modified"		"0x00000000616B4D96"
-	"CompileTime"		"16.596001"
+	"Timestamp_Modified"		"0x0000000063A78969"
+	"CompileTime"		"15.203001"
 	"Coop"		"0"
 	"Title"		"BAITED!!"
-	"Description"		"You are tempted wiith delights but then are toyed with and soon find yourself trapped with no way out."
+	"Description"		"You are tempted wiith delights but then are toyed with and soon find yourself trapped with no apparent way out."
 	"PreviewDirty"		"0"
 	"ChamberSize"		"13 15 17"
 	"Voxels"
@@ -45,8 +45,8 @@
 				"Y9"		"f11110011101100"
 				"Y8"		"f11110011111100"
 				"Y7"		"f11110000000000"
-				"Y6"		"f11111111111110"
-				"Y5"		"f11111111111110"
+				"Y6"		"f11111011111110"
+				"Y5"		"f11110011111110"
 				"Y4"		"f11111111111110"
 				"Y3"		"f11111111111110"
 				"Y2"		"f11111111111110"
@@ -95,11 +95,11 @@
 			{
 				"Y15"		"f11111111111110"
 				"Y14"		"f11111111111110"
-				"Y13"		"f11111111111110"
+				"Y13"		"f11111111101110"
 				"Y12"		"f11111111000110"
-				"Y11"		"f11111111000110"
+				"Y11"		"f11111110000110"
 				"Y10"		"f11111111000110"
-				"Y9"		"f11110111111110"
+				"Y9"		"f11110111101110"
 				"Y8"		"f11111111111110"
 				"Y7"		"f11111111111110"
 				"Y6"		"f11111111111110"
@@ -163,7 +163,7 @@
 				"Y5"		"f00100111111110"
 				"Y4"		"f00100111111110"
 				"Y3"		"f00000111111110"
-				"Y2"		"f00000111111110"
+				"Y2"		"f00000011111110"
 				"Y1"		"f00000111111110"
 				"Y0"		"f11111111111110"
 			}
@@ -391,7 +391,7 @@
 				"Y8"		"f00001100000000"
 				"Y7"		"f00001100000000"
 				"Y6"		"f00000000000111"
-				"Y5"		"f00000000000111"
+				"Y5"		"f00000100000111"
 				"Y4"		"f00000000000110"
 				"Y3"		"f00000000000101"
 				"Y2"		"f00000001000011"
@@ -489,7 +489,7 @@
 				"Y5"		"f00000000000000"
 				"Y4"		"f00000000000000"
 				"Y3"		"f00000000000000"
-				"Y2"		"f00000001000000"
+				"Y2"		"f00000000000000"
 				"Y1"		"f00000000000000"
 				"Y0"		"f00000000000001"
 			}
@@ -508,7 +508,7 @@
 				"Y5"		"f00000000000000"
 				"Y4"		"f00000000000000"
 				"Y3"		"f00000000000000"
-				"Y2"		"f00000001000000"
+				"Y2"		"f00000000000000"
 				"Y1"		"f00000000000000"
 				"Y0"		"f00000000000001"
 			}
@@ -833,7 +833,7 @@
 				"Y6"		"f00000000000000"
 				"Y5"		"f00000000000000"
 				"Y4"		"f00000000000001"
-				"Y3"		"f00000011000001"
+				"Y3"		"f00000001000001"
 				"Y2"		"f00000000000001"
 				"Y1"		"f00000000000011"
 				"Y0"		"f00000000000011"
@@ -852,7 +852,7 @@
 				"Y6"		"f00000000000010"
 				"Y5"		"f00000000000000"
 				"Y4"		"f00000000000000"
-				"Y3"		"f00000011000001"
+				"Y3"		"f00000001000001"
 				"Y2"		"f00000000000001"
 				"Y1"		"f00000000000011"
 				"Y0"		"f00000000000011"
@@ -1179,7 +1179,7 @@
 				"Y5"		"f00000000000000"
 				"Y4"		"f00000000000000"
 				"Y3"		"f00000000000000"
-				"Y2"		"f00000011000000"
+				"Y2"		"f00000001000000"
 				"Y1"		"f00000000000001"
 				"Y0"		"f00000000000011"
 			}
@@ -1198,7 +1198,7 @@
 				"Y5"		"f00000000000000"
 				"Y4"		"f00000000000000"
 				"Y3"		"f00000000000011"
-				"Y2"		"f00000011000001"
+				"Y2"		"f00000001000001"
 				"Y1"		"f00000000000001"
 				"Y0"		"f00000000000011"
 			}
@@ -1217,7 +1217,7 @@
 				"Y5"		"f01000000000010"
 				"Y4"		"f01000000000000"
 				"Y3"		"f00000000000011"
-				"Y2"		"f00000011000001"
+				"Y2"		"f00000001000001"
 				"Y1"		"f00000000000001"
 				"Y0"		"f00000000000011"
 			}
@@ -2420,7 +2420,7 @@
 			"Index"		"81"
 			"Type"		"ITEM_DROPPER_PAINT"
 			"Deletable"		"1"
-			"VoxelPos"		"7 11 3"
+			"VoxelPos"		"7 11 4"
 			"LocalPos"		"0 0 0"
 			"Angles"		"0 0 180"
 			"ITEM_PROPERTY_CONNECTION_COUNT"		"0"
@@ -2438,7 +2438,7 @@
 			"Index"		"82"
 			"Type"		"ITEM_TBEAM"
 			"Deletable"		"1"
-			"VoxelPos"		"9 13 3"
+			"VoxelPos"		"9 13 4"
 			"LocalPos"		"0 0 0"
 			"Angles"		"0 90 180"
 			"ITEM_PROPERTY_CONNECTION_COUNT"		"0"
@@ -2468,7 +2468,7 @@
 			"Index"		"84"
 			"Type"		"ITEM_DROPPER_CUBE"
 			"Deletable"		"1"
-			"VoxelPos"		"9 9 3"
+			"VoxelPos"		"9 9 4"
 			"LocalPos"		"0 0 0"
 			"Angles"		"0 180 180"
 			"ITEM_PROPERTY_CONNECTION_COUNT"		"0"
@@ -2485,7 +2485,7 @@
 			"Index"		"85"
 			"Type"		"ITEM_LASER_CATCHER_CENTER"
 			"Deletable"		"1"
-			"VoxelPos"		"9 12 2"
+			"VoxelPos"		"9 11 2"
 			"LocalPos"		"0 0 0"
 			"Angles"		"0 0 0"
 			"Facing"		"0 0 0"
@@ -2496,7 +2496,7 @@
 			"Index"		"86"
 			"Type"		"ITEM_LASER_EMITTER_CENTER"
 			"Deletable"		"1"
-			"VoxelPos"		"9 9 3"
+			"VoxelPos"		"9 9 4"
 			"LocalPos"		"0 0 0"
 			"Angles"		"0 0 180"
 			"ITEM_PROPERTY_CONNECTION_COUNT"		"1"
@@ -2569,7 +2569,7 @@
 			"Index"		"92"
 			"Type"		"ITEM_BARRIER_EXTENT"
 			"Deletable"		"0"
-			"VoxelPos"		"9 10 3"
+			"VoxelPos"		"9 10 4"
 			"LocalPos"		"0 0 0"
 			"Angles"		"-90 -90 0"
 			"Facing"		"0 0 0"
@@ -2614,7 +2614,7 @@
 			"Index"		"96"
 			"Type"		"ITEM_BARRIER_EXTENT"
 			"Deletable"		"0"
-			"VoxelPos"		"8 11 3"
+			"VoxelPos"		"8 11 4"
 			"LocalPos"		"0 0 0"
 			"Angles"		"-90 180 0"
 			"Facing"		"0 0 0"
@@ -3611,18 +3611,6 @@
 		"Item"
 		{
 			"Index"		"177"
-			"Type"		"ITEM_BUTTON_FLOOR"
-			"Deletable"		"1"
-			"VoxelPos"		"1 4 7"
-			"LocalPos"		"0 0 0"
-			"Angles"		"0 0 0"
-			"ITEM_PROPERTY_BUTTON_TYPE"		"0"
-			"Facing"		"0 0 0"
-			"ConnectionVisiblity"		"0"
-		}
-		"Item"
-		{
-			"Index"		"178"
 			"Type"		"ITEM_PANEL_STAIRS"
 			"Deletable"		"1"
 			"VoxelPos"		"12 8 1"
@@ -3635,7 +3623,7 @@
 		}
 		"Item"
 		{
-			"Index"		"179"
+			"Index"		"178"
 			"Type"		"ITEM_BUTTON_FLOOR"
 			"Deletable"		"1"
 			"VoxelPos"		"10 11 2"
@@ -3647,7 +3635,7 @@
 		}
 		"Item"
 		{
-			"Index"		"180"
+			"Index"		"179"
 			"Type"		"ITEM_PANEL_CLEAR"
 			"Deletable"		"1"
 			"VoxelPos"		"11 11 2"
@@ -3663,7 +3651,7 @@
 		}
 		"Item"
 		{
-			"Index"		"181"
+			"Index"		"180"
 			"Type"		"ITEM_PANEL_CLEAR"
 			"Deletable"		"1"
 			"VoxelPos"		"11 11 3"
@@ -3679,7 +3667,7 @@
 		}
 		"Item"
 		{
-			"Index"		"182"
+			"Index"		"181"
 			"Type"		"ITEM_BARRIER"
 			"Deletable"		"1"
 			"VoxelPos"		"1 3 6"
@@ -3691,7 +3679,7 @@
 		}
 		"Item"
 		{
-			"Index"		"183"
+			"Index"		"182"
 			"Type"		"ITEM_BARRIER_EXTENT"
 			"Deletable"		"0"
 			"VoxelPos"		"1 3 6"
@@ -3702,7 +3690,7 @@
 		}
 		"Item"
 		{
-			"Index"		"184"
+			"Index"		"183"
 			"Type"		"ITEM_BARRIER_EXTENT"
 			"Deletable"		"0"
 			"VoxelPos"		"1 3 6"
@@ -3713,7 +3701,7 @@
 		}
 		"Item"
 		{
-			"Index"		"185"
+			"Index"		"184"
 			"Type"		"ITEM_BARRIER_EXTENT"
 			"Deletable"		"0"
 			"VoxelPos"		"1 3 6"
@@ -3724,7 +3712,7 @@
 		}
 		"Item"
 		{
-			"Index"		"186"
+			"Index"		"185"
 			"Type"		"ITEM_BARRIER"
 			"Deletable"		"1"
 			"VoxelPos"		"9 14 2"
@@ -3736,7 +3724,7 @@
 		}
 		"Item"
 		{
-			"Index"		"187"
+			"Index"		"186"
 			"Type"		"ITEM_BARRIER_EXTENT"
 			"Deletable"		"0"
 			"VoxelPos"		"9 14 2"
@@ -3747,7 +3735,7 @@
 		}
 		"Item"
 		{
-			"Index"		"188"
+			"Index"		"187"
 			"Type"		"ITEM_BARRIER_EXTENT"
 			"Deletable"		"0"
 			"VoxelPos"		"9 14 2"
@@ -3758,7 +3746,7 @@
 		}
 		"Item"
 		{
-			"Index"		"189"
+			"Index"		"188"
 			"Type"		"ITEM_BARRIER_EXTENT"
 			"Deletable"		"0"
 			"VoxelPos"		"9 14 2"
@@ -3769,7 +3757,7 @@
 		}
 		"Item"
 		{
-			"Index"		"190"
+			"Index"		"189"
 			"Type"		"ITEM_LIGHT_PANEL"
 			"Deletable"		"1"
 			"VoxelPos"		"10 1 9"
@@ -3780,12 +3768,165 @@
 		}
 		"Item"
 		{
-			"Index"		"191"
+			"Index"		"190"
 			"Type"		"ITEM_LIGHT_PANEL"
 			"Deletable"		"1"
 			"VoxelPos"		"10 2 9"
 			"LocalPos"		"-0 -0 0.375"
 			"Angles"		"90 180 0"
+			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
+		}
+		"Item"
+		{
+			"Index"		"191"
+			"Type"		"ITEM_LASER_RELAY_CENTER"
+			"Deletable"		"1"
+			"VoxelPos"		"5 2 7"
+			"LocalPos"		"0 0 0"
+			"Angles"		"0 90 0"
+			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
+		}
+		"Item"
+		{
+			"Index"		"192"
+			"Type"		"ITEM_LASER_EMITTER_OFFSET"
+			"Deletable"		"1"
+			"VoxelPos"		"5 2 7"
+			"LocalPos"		"0 0 0"
+			"Angles"		"-90 90 0"
+			"ITEM_PROPERTY_CONNECTION_COUNT"		"1"
+			"ITEM_PROPERTY_START_ENABLED"		"0"
+			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
+		}
+		"Item"
+		{
+			"Index"		"193"
+			"Type"		"ITEM_LASER_EMITTER_OFFSET"
+			"Deletable"		"1"
+			"VoxelPos"		"5 2 7"
+			"LocalPos"		"0 0 0"
+			"Angles"		"-90 -90 0"
+			"ITEM_PROPERTY_CONNECTION_COUNT"		"1"
+			"ITEM_PROPERTY_START_ENABLED"		"0"
+			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
+		}
+		"Item"
+		{
+			"Index"		"194"
+			"Type"		"ITEM_BUTTON_PEDESTAL"
+			"Deletable"		"1"
+			"VoxelPos"		"4 5 1"
+			"LocalPos"		"0 0 0"
+			"Angles"		"0 -90 0"
+			"ITEM_PROPERTY_TIMER_DELAY"		"3"
+			"ITEM_PROPERTY_TIMER_SOUND"		"0"
+			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"2"
+		}
+		"Item"
+		{
+			"Index"		"195"
+			"Type"		"ITEM_BARRIER"
+			"Deletable"		"1"
+			"VoxelPos"		"4 2 7"
+			"LocalPos"		"0 0 0"
+			"Angles"		"0 180 0"
+			"ITEM_PROPERTY_BARRIER_TYPE"		"0"
+			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
+		}
+		"Item"
+		{
+			"Index"		"196"
+			"Type"		"ITEM_BARRIER_EXTENT"
+			"Deletable"		"0"
+			"VoxelPos"		"4 2 7"
+			"LocalPos"		"0 0 0"
+			"Angles"		"0 90 -90"
+			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
+		}
+		"Item"
+		{
+			"Index"		"197"
+			"Type"		"ITEM_BARRIER_EXTENT"
+			"Deletable"		"0"
+			"VoxelPos"		"4 2 7"
+			"LocalPos"		"0 0 0"
+			"Angles"		"-90 0 0"
+			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
+		}
+		"Item"
+		{
+			"Index"		"198"
+			"Type"		"ITEM_BARRIER_EXTENT"
+			"Deletable"		"0"
+			"VoxelPos"		"4 2 7"
+			"LocalPos"		"0 0 0"
+			"Angles"		"0 -90 90"
+			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
+		}
+		"Item"
+		{
+			"Index"		"199"
+			"Type"		"ITEM_BARRIER"
+			"Deletable"		"1"
+			"VoxelPos"		"1 4 7"
+			"LocalPos"		"0 0 0"
+			"Angles"		"0 -90 90"
+			"ITEM_PROPERTY_BARRIER_TYPE"		"1"
+			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
+		}
+		"Item"
+		{
+			"Index"		"200"
+			"Type"		"ITEM_BARRIER_EXTENT"
+			"Deletable"		"0"
+			"VoxelPos"		"1 4 7"
+			"LocalPos"		"0 0 0"
+			"Angles"		"90 -90 0"
+			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
+		}
+		"Item"
+		{
+			"Index"		"201"
+			"Type"		"ITEM_BARRIER_EXTENT"
+			"Deletable"		"0"
+			"VoxelPos"		"1 4 7"
+			"LocalPos"		"0 0 0"
+			"Angles"		"0 180 -90"
+			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
+		}
+		"Item"
+		{
+			"Index"		"202"
+			"Type"		"ITEM_BARRIER_EXTENT"
+			"Deletable"		"0"
+			"VoxelPos"		"1 4 7"
+			"LocalPos"		"0 0 0"
+			"Angles"		"-90 90 0"
+			"Facing"		"0 0 0"
+			"ConnectionVisiblity"		"0"
+		}
+		"Item"
+		{
+			"Index"		"203"
+			"Type"		"ITEM_BUTTON_PEDESTAL"
+			"Deletable"		"1"
+			"VoxelPos"		"1 4 7"
+			"LocalPos"		"0 0 0"
+			"Angles"		"0 180 0"
+			"ITEM_PROPERTY_TIMER_DELAY"		"3"
+			"ITEM_PROPERTY_TIMER_SOUND"		"1"
 			"Facing"		"0 0 0"
 			"ConnectionVisiblity"		"0"
 		}
@@ -4232,12 +4373,6 @@
 		}
 		"Connection"
 		{
-			"Sender"		"107"
-			"Receiver"		"12"
-			"Type"		"CONNECTION_STANDARD"
-		}
-		"Connection"
-		{
 			"Sender"		"108"
 			"Receiver"		"109"
 			"Type"		"CONNECTION_BARRIER_ANCHOR_TO_EXTENT"
@@ -4490,44 +4625,38 @@
 		}
 		"Connection"
 		{
-			"Sender"		"177"
-			"Receiver"		"68"
+			"Sender"		"178"
+			"Receiver"		"179"
 			"Type"		"CONNECTION_STANDARD"
 		}
 		"Connection"
 		{
-			"Sender"		"179"
+			"Sender"		"178"
 			"Receiver"		"180"
 			"Type"		"CONNECTION_STANDARD"
 		}
 		"Connection"
 		{
-			"Sender"		"179"
-			"Receiver"		"181"
+			"Sender"		"178"
+			"Receiver"		"177"
 			"Type"		"CONNECTION_STANDARD"
 		}
 		"Connection"
 		{
-			"Sender"		"179"
-			"Receiver"		"178"
-			"Type"		"CONNECTION_STANDARD"
+			"Sender"		"181"
+			"Receiver"		"182"
+			"Type"		"CONNECTION_BARRIER_ANCHOR_TO_EXTENT"
 		}
 		"Connection"
 		{
-			"Sender"		"182"
+			"Sender"		"181"
 			"Receiver"		"183"
 			"Type"		"CONNECTION_BARRIER_ANCHOR_TO_EXTENT"
 		}
 		"Connection"
 		{
-			"Sender"		"182"
+			"Sender"		"181"
 			"Receiver"		"184"
-			"Type"		"CONNECTION_BARRIER_ANCHOR_TO_EXTENT"
-		}
-		"Connection"
-		{
-			"Sender"		"182"
-			"Receiver"		"185"
 			"Type"		"CONNECTION_BARRIER_ANCHOR_TO_EXTENT"
 		}
 		"Connection"
@@ -4538,20 +4667,20 @@
 		}
 		"Connection"
 		{
-			"Sender"		"186"
+			"Sender"		"185"
+			"Receiver"		"186"
+			"Type"		"CONNECTION_BARRIER_ANCHOR_TO_EXTENT"
+		}
+		"Connection"
+		{
+			"Sender"		"185"
 			"Receiver"		"187"
 			"Type"		"CONNECTION_BARRIER_ANCHOR_TO_EXTENT"
 		}
 		"Connection"
 		{
-			"Sender"		"186"
+			"Sender"		"185"
 			"Receiver"		"188"
-			"Type"		"CONNECTION_BARRIER_ANCHOR_TO_EXTENT"
-		}
-		"Connection"
-		{
-			"Sender"		"186"
-			"Receiver"		"189"
 			"Type"		"CONNECTION_BARRIER_ANCHOR_TO_EXTENT"
 		}
 		"Connection"
@@ -4582,6 +4711,66 @@
 		{
 			"Sender"		"88"
 			"Receiver"		"170"
+			"Type"		"CONNECTION_STANDARD"
+		}
+		"Connection"
+		{
+			"Sender"		"107"
+			"Receiver"		"192"
+			"Type"		"CONNECTION_STANDARD"
+		}
+		"Connection"
+		{
+			"Sender"		"191"
+			"Receiver"		"12"
+			"Type"		"CONNECTION_STANDARD"
+		}
+		"Connection"
+		{
+			"Sender"		"194"
+			"Receiver"		"193"
+			"Type"		"CONNECTION_STANDARD"
+		}
+		"Connection"
+		{
+			"Sender"		"195"
+			"Receiver"		"196"
+			"Type"		"CONNECTION_BARRIER_ANCHOR_TO_EXTENT"
+		}
+		"Connection"
+		{
+			"Sender"		"195"
+			"Receiver"		"197"
+			"Type"		"CONNECTION_BARRIER_ANCHOR_TO_EXTENT"
+		}
+		"Connection"
+		{
+			"Sender"		"195"
+			"Receiver"		"198"
+			"Type"		"CONNECTION_BARRIER_ANCHOR_TO_EXTENT"
+		}
+		"Connection"
+		{
+			"Sender"		"199"
+			"Receiver"		"200"
+			"Type"		"CONNECTION_BARRIER_ANCHOR_TO_EXTENT"
+		}
+		"Connection"
+		{
+			"Sender"		"199"
+			"Receiver"		"201"
+			"Type"		"CONNECTION_BARRIER_ANCHOR_TO_EXTENT"
+		}
+		"Connection"
+		{
+			"Sender"		"199"
+			"Receiver"		"202"
+			"Type"		"CONNECTION_BARRIER_ANCHOR_TO_EXTENT"
+		}
+		"Connection"
+		{
+			"Sender"		"203"
+			"Receiver"		"68"
 			"Type"		"CONNECTION_STANDARD"
 		}
 	}
