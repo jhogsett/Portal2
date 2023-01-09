@@ -4,11 +4,13 @@
 	"Version"		"14"
 	"FileID"		"0x0000000091654194"
 	"Timestamp_Created"		"0x00000000602CA802"
-	"Timestamp_Modified"		"0x0000000063AE331F"
-	"CompileTime"		"15.611001"
+	"Timestamp_Modified"		"0x0000000063B61458"
+	"CompileTime"		"16.345001"
 	"Coop"		"0"
 	"Title"		"BAITED!!"
-	"Description"		"Updated to fix discovery problems and smooth the solutions.
+	"Description"		"Final polishing update for a version 1.0 release.
+
+Updated to fix discovery problems and smooth the solutions.
 
 You are tempted wiith delights but then are toyed with and soon find yourself trapped with no apparent way out."
 	"PreviewDirty"		"0"
@@ -3231,7 +3233,7 @@ You are tempted wiith delights but then are toyed with and soon find yourself tr
 			"VoxelPos"		"11 6 9"
 			"LocalPos"		"0 0 0"
 			"Angles"		"0 0 0"
-			"ITEM_PROPERTY_CUBE_TYPE"		"2"
+			"ITEM_PROPERTY_CUBE_TYPE"		"0"
 			"ITEM_PROPERTY_DROPPER_ENABLED"		"0"
 			"ITEM_PROPERTY_AUTO_DROP_CUBE"		"1"
 			"ITEM_PROPERTY_AUTO_RESPAWN_CUBE"		"1"
@@ -3247,7 +3249,7 @@ You are tempted wiith delights but then are toyed with and soon find yourself tr
 			"LocalPos"		"0 0 0"
 			"Angles"		"0 180 180"
 			"ITEM_PROPERTY_CONNECTION_COUNT"		"0"
-			"ITEM_PROPERTY_CUBE_TYPE"		"2"
+			"ITEM_PROPERTY_CUBE_TYPE"		"0"
 			"ITEM_PROPERTY_DROPPER_ENABLED"		"0"
 			"ITEM_PROPERTY_DROPPER_FALL_STRAIGHT_DOWN"		"1"
 			"ITEM_PROPERTY_AUTO_DROP_CUBE"		"1"
@@ -4059,38 +4061,6 @@ You are tempted wiith delights but then are toyed with and soon find yourself tr
 		"Item"
 		{
 			"Index"		"208"
-			"Type"		"ITEM_CUBE"
-			"Deletable"		"1"
-			"VoxelPos"		"12 6 9"
-			"LocalPos"		"0 0 0"
-			"Angles"		"0 0 0"
-			"ITEM_PROPERTY_CUBE_TYPE"		"2"
-			"ITEM_PROPERTY_DROPPER_ENABLED"		"0"
-			"ITEM_PROPERTY_AUTO_DROP_CUBE"		"1"
-			"ITEM_PROPERTY_AUTO_RESPAWN_CUBE"		"1"
-			"Facing"		"0 0 0"
-			"ConnectionVisiblity"		"0"
-		}
-		"Item"
-		{
-			"Index"		"209"
-			"Type"		"ITEM_DROPPER_CUBE"
-			"Deletable"		"1"
-			"VoxelPos"		"12 6 11"
-			"LocalPos"		"0 0 0"
-			"Angles"		"0 180 180"
-			"ITEM_PROPERTY_CONNECTION_COUNT"		"0"
-			"ITEM_PROPERTY_CUBE_TYPE"		"2"
-			"ITEM_PROPERTY_DROPPER_ENABLED"		"0"
-			"ITEM_PROPERTY_DROPPER_FALL_STRAIGHT_DOWN"		"1"
-			"ITEM_PROPERTY_AUTO_DROP_CUBE"		"1"
-			"ITEM_PROPERTY_AUTO_RESPAWN_CUBE"		"1"
-			"Facing"		"0 0 0"
-			"ConnectionVisiblity"		"0"
-		}
-		"Item"
-		{
-			"Index"		"210"
 			"Type"		"ITEM_PANEL_CLEAR"
 			"Deletable"		"1"
 			"VoxelPos"		"5 8 7"
@@ -4106,7 +4076,7 @@ You are tempted wiith delights but then are toyed with and soon find yourself tr
 		}
 		"Item"
 		{
-			"Index"		"211"
+			"Index"		"209"
 			"Type"		"ITEM_BUTTON_PEDESTAL"
 			"Deletable"		"1"
 			"VoxelPos"		"6 8 7"
@@ -4119,7 +4089,7 @@ You are tempted wiith delights but then are toyed with and soon find yourself tr
 		}
 		"Item"
 		{
-			"Index"		"212"
+			"Index"		"210"
 			"Type"		"ITEM_PANEL_ANGLED"
 			"Deletable"		"1"
 			"VoxelPos"		"2 6 10"
@@ -4135,7 +4105,7 @@ You are tempted wiith delights but then are toyed with and soon find yourself tr
 		}
 		"Item"
 		{
-			"Index"		"213"
+			"Index"		"211"
 			"Type"		"ITEM_BUTTON_PEDESTAL"
 			"Deletable"		"1"
 			"VoxelPos"		"1 5 7"
@@ -4148,7 +4118,7 @@ You are tempted wiith delights but then are toyed with and soon find yourself tr
 		}
 		"Item"
 		{
-			"Index"		"214"
+			"Index"		"212"
 			"Type"		"ITEM_PANEL_CLEAR"
 			"Deletable"		"1"
 			"VoxelPos"		"11 4 9"
@@ -4164,7 +4134,7 @@ You are tempted wiith delights but then are toyed with and soon find yourself tr
 		}
 		"Item"
 		{
-			"Index"		"215"
+			"Index"		"213"
 			"Type"		"ITEM_BUTTON_PEDESTAL"
 			"Deletable"		"1"
 			"VoxelPos"		"12 4 9"
@@ -5038,9 +5008,9 @@ You are tempted wiith delights but then are toyed with and soon find yourself tr
 		}
 		"Connection"
 		{
-			"Sender"		"208"
-			"Receiver"		"209"
-			"Type"		"CONNECTION_BOX_DROPPER"
+			"Sender"		"209"
+			"Receiver"		"208"
+			"Type"		"CONNECTION_STANDARD"
 		}
 		"Connection"
 		{
@@ -5052,12 +5022,6 @@ You are tempted wiith delights but then are toyed with and soon find yourself tr
 		{
 			"Sender"		"213"
 			"Receiver"		"212"
-			"Type"		"CONNECTION_STANDARD"
-		}
-		"Connection"
-		{
-			"Sender"		"215"
-			"Receiver"		"214"
 			"Type"		"CONNECTION_STANDARD"
 		}
 		"Connection"
