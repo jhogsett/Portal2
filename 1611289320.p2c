@@ -4,17 +4,11 @@
 	"Version"		"14"
 	"FileID"		"0x0000000091655390"
 	"Timestamp_Created"		"0x00000000600A52E8"
-	"Timestamp_Modified"		"0x0000000063B5FC0F"
-	"CompileTime"		"15.781001"
+	"Timestamp_Modified"		"0x0000000063BE0857"
+	"CompileTime"		"17.963001"
 	"Coop"		"0"
-	"Title"		"STRAFE!!"
-	"Description"		"Final minor polishing updates and release of version 1.0. There are a couple easter egg-like features.
-
-Update: some engagement and styling updates.
-
-Update: fixed several things, made puzzle solving smoother, made the puzzle itself more complex, added more turrets.
-
-Find a clever way to get past the turrets"
+	"Title"		"Strafe"
+	"Description"		"Find a way to get rid of the Armed Turrets blocking the exit. Bonus points if you can figure out how to get rid of the other ones too!"
 	"PreviewDirty"		"0"
 	"ChamberSize"		"22 14 13"
 	"Voxels"
